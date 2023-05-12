@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hello, my name is Kalin.🔭 <br><br>🤝 I’m looking for help with putting myself in the right environment.<br>🌱 I’m currently learning: Front-end with JS.<br>💬 My future goals: Fullstack-developer!<br>⚡ Fun fact: Graduate Sports School being a professional gymnastics player for a while<br><br>
+Hello, my name is Kalin.🔭 <br><br>🤝 We can share some thoughts and ideas on social media.<br>🌱 I’m currently learning: Front-end with JS.<br>💬 My future goals: Fullstack-developer!<br>⚡ Fun fact: Graduate Sports School being a professional gymnastics player for a while<br><br>
 
 
 ## 🌐 Socials:
